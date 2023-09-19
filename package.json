@@ -1,0 +1,28 @@
+{
+  "name": "rocketsms-js",
+  "version": "1.0.0",
+  "description": "Api node RocketSms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bodomvg/rocketsms-js.git"
+  },
+  "keywords": [
+    "sms",
+    "apisms",
+    "belarus"
+  ],
+  "author": "Alexander Pasheda",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Bodomvg/rocketsms-js/issues"
+  },
+  "homepage": "https://github.com/Bodomvg/rocketsms-js#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "md5": "^2.3.0"
+  }
+}
